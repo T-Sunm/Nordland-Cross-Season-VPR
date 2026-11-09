@@ -6,11 +6,8 @@ __pycache__/
 .ipynb_checkpoints
 notebooks/.ipynb_checkpoints
 
-# Ignore everything in data folder except specific subdirectories
-data/train/*
-data/val/*
-!data/train/.gitkeep
-!data/val/.gitkeep
+# Data
+data/
 
 # Logs
 logs/
