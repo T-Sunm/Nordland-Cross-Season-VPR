@@ -1,0 +1,9 @@
+torch>=2.2
+torchvision>=0.17
+numpy>=1.24
+pandas>=2.0
+pillow>=10.0
+matplotlib>=3.7
+pytorch-metric-learning>=2.3
+nbformat>=5.9
+jupyter>=1.0
