@@ -3,7 +3,6 @@
 #
 # https://github.com/amaralibey/Bag-of-Queries
 #
-# See LICENSE file in the project root.
 # ----------------------------------------------------------------------------
 
 from typing import List, Dict, Tuple

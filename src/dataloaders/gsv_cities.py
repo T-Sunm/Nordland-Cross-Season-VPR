@@ -3,7 +3,7 @@
 #
 # https://github.com/amaralibey/Bag-of-Queries
 #
-# Licensed under the MIT License. See LICENSE file in the project root.
+# Licensed under the MIT License.
 # ----------------------------------------------------------------------------
 
 """

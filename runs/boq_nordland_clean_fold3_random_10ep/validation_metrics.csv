@@ -1,2 +1,0 @@
-run,best_epoch,checkpoint,recall_at_1,recall_at_5,recall_at_10,median_top1_frame_error,mean_top1_frame_error,n_queries,n_database
-boq_nordland_clean_fold3_random_10ep,6,d:\AIO\Project\Nordland-Cross-Season-VPR\runs\boq_nordland_clean_fold3_random_10ep\checkpoints\best.pt,97.29729729729729,100.0,100.0,0.0,1.281853281853282,259,259

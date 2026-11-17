@@ -1,5 +1,0 @@
-fold,best_epoch,best_recall_at_1,epoch10_recall_at_1,checkpoint
-0,9,96.13899613899613,96.13899613899613,d:\AIO\Project\Nordland-Cross-Season-VPR\runs\boq_nordland_clean_fold0_random_10ep\checkpoints\best.pt
-1,7,98.84169884169884,98.84169884169884,d:\AIO\Project\Nordland-Cross-Season-VPR\runs\boq_nordland_clean_fold1_random_10ep\checkpoints\best.pt
-2,9,98.45559845559846,97.29729729729729,d:\AIO\Project\Nordland-Cross-Season-VPR\runs\boq_nordland_clean_fold2_random_10ep\checkpoints\best.pt
-3,6,97.29729729729729,96.13899613899613,d:\AIO\Project\Nordland-Cross-Season-VPR\runs\boq_nordland_clean_fold3_random_10ep\checkpoints\best.pt

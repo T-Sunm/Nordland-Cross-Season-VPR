@@ -1,2 +1,0 @@
-run,best_epoch,checkpoint,recall_at_1,recall_at_5,recall_at_10,median_top1_frame_error,mean_top1_frame_error,n_queries,n_database
-boq_nordland_vpr_full_train_10ep,7,d:\AIO\Project\Nordland-Cross-Season-VPR\runs\boq_nordland_vpr_full_train_10ep\checkpoints\best.pt,98.6842105263158,100.0,100.0,1.5,2.473684210526316,76,76
