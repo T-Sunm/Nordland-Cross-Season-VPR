@@ -1,0 +1,37 @@
+{
+  "run_name": "boq_nordland_clean_fold3_random_10ep",
+  "run_key": "8e2a92ecb35df0a1759dc6ab4764e47efc98526a19781a4e35d6bb274a5fba21",
+  "build_id": "boq_nordland_clean_fold3_random_10ep",
+  "dataset_id": "1pz200V4uhEyOTipI8Akas4kwlYF9_YUD",
+  "config": {
+    "seed": 2026,
+    "image_size": 320,
+    "groups_per_batch": 8,
+    "eval_batch_size": 64,
+    "num_workers": 0,
+    "proj_channels": 512,
+    "num_queries": 64,
+    "num_layers": 2,
+    "output_dim": 8192,
+    "nheads": 8,
+    "conv_kernel": 3,
+    "ffn_ratio": 4,
+    "dropout": 0.0,
+    "epochs": 10,
+    "warmup_epochs": 3,
+    "lr": 0.0001,
+    "weight_decay": 0.001,
+    "token_drop": 0.0,
+    "token_drop_block": 4,
+    "lr_decay_epochs": [
+      15,
+      30
+    ],
+    "lr_gamma": 0.1,
+    "mining_margin": 0.1,
+    "positive_radius": 10,
+    "train_positive_radius": 0,
+    "negative_radius": 20
+  },
+  "weights": "IMAGENET1K_V2"
+}

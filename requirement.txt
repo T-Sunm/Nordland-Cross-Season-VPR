@@ -1,0 +1,8 @@
+numpy==1.26.4
+pandas==2.2.3
+Pillow==11.0.0
+matplotlib==3.9.2
+tqdm==4.67.1
+gdown==5.2.0
+pytorch-metric-learning==2.8.1
+ipykernel==6.29.5
